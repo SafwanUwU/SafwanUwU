@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @SafwanUwU
-- 👀 I’m interested in learing new things
-- 📫 Reach me on safwan1172@outlook.com
-- 😄 Pronouns: him/his
-- ⚡ Fun fact: idk
+👋 Hi there! I’m Safwan Ahmad, a passionate 13-year-old coder who loves technology and innovation. I’m currently learning Python and exploring the world of machine learning. My goal is to build my own tech company in the future, inspired by industry leaders like Google and Microsoft.
 
-<!---
-SafwanUwU/SafwanUwU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning:
+
+Python
+Machine Learning
+Web Development
+💻 Projects: I love working on projects that challenge my skills and help me learn. Check out my repositories for some of my recent work!
+
+🔗 Connect with Me:
+
+safwan1172@outlook.com
