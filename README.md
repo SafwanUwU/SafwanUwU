@@ -9,4 +9,4 @@ Web Development
 
 🔗 Connect with Me:
 
-safwan1172@outlook.com
+safwanahmad787@gmail.com
